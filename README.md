@@ -89,9 +89,6 @@ A project focused on multilingual conversational support and text-based depressi
 * 🧠 Data Structures & Algorithms
 * 🤖 AI Automation & Generative AI
 
-## 🐍 Watch My Contributions Get Eaten!
-
-
 ## 🧩 Problem Solving
 
 * 💻 Practicing DSA using Java
